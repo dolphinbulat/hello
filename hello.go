@@ -15,7 +15,6 @@ func main() {
 	if err != nil {
 		log.Fatal(err)
 	}
-	//message := greetings.Hello("Gladys")
 	fmt.Println(message)
 }
 
